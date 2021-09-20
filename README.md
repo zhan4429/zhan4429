@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**zhan4429/zhan4429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yucheng Zhang, a senior life science scientist in [Purdue ITaP Research Computing](https://www.rcac.purdue.edu). 
 
-Here are some ideas to get you started:
+## Experience  
+* August 2021 to present: Senior Life Science Scientist, Purdue Univeristy, ITaP Research Computing
+* August 2020 to present: Bioinformatician, Cancer Bioinformatics Core, Indiana University–Purdue University Indianapolis
+* August 2016 to August 2020: Postdoc, Department of Plant Pathology, University of Florida
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education. 
+* PhD (2016) Plant Pathology, University of Florida, USA
+* MSc (2012) & BSc (2009) Viticulture & Enology, Northwest A&F University, China
+
+## Contact Me
+
+You can reach me at <zhan4429@purdue.edu>.
