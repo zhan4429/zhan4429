@@ -4,7 +4,7 @@ I'm Yucheng Zhang, a senior life science scientist in [Purdue ITaP Research Comp
 
 ## Experience  
 * August 2021 to present: Senior Life Science Scientist, Purdue Univeristy, ITaP Research Computing
-* August 2020 to present: Bioinformatician, Cancer Bioinformatics Core, Indiana University–Purdue University Indianapolis
+* August 2020 to 2021 August: Bioinformatician, Cancer Bioinformatics Core, Indiana University–Purdue University Indianapolis
 * August 2016 to August 2020: Postdoc, Department of Plant Pathology, University of Florida
 
 ## Education. 
