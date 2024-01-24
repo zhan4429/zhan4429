@@ -14,4 +14,4 @@ I'm Yucheng Zhang, the Bioinformatics Engineer in [Tufts Research Technology](ht
 
 ## Contact Me
 
-You can reach me at <zhan4429@purdue.edu>.
+You can reach me at <yzhang85@tufts.edu>.
