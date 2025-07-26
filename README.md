@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Yucheng Zhang, the Bioinformatics Engineer in [Tufts Research Technology](https://it.tufts.edu/researchtechnology.tufts.edu). 
+I'm Yucheng Zhang, the Senior Bioinformatics Engineer in [Tufts Research Technology](https://it.tufts.edu/researchtechnology.tufts.edu). 
 
 ## Experience  
 * June 2025 to present: Senior Bioinformatics Engineer, Tufts University, Tufts Technology Services, Research Technology
